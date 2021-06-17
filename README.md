@@ -1,7 +1,7 @@
 # Create_Residential_Capacity_Classes
-Create residential capacity classes for Bill Hereth's Centers Capacity Tool
+Create residential capacity classes for Bill Hereth's Residential Capacity Tool
 
-1) Require REMM.gdb with remm parcels projected to nad83 utm zone 12 to placed in the input folder using the following path structure:
+1) Requires REMM.gdb with remm parcels projected to nad83 utm zone 12 to placed in the input folder using the following path structure:
 Inputs\REMM.gdb\Parcels_2015_utm12
 
 2) Run the python notebook; output classes will appear in class.gdb, intermediate files are in scratch.gdb
